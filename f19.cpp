@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-string name="Sourav";
+string name="Saurav";
 void fun(){
     cout<<name<<endl;
 }
